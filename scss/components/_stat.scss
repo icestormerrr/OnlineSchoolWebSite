@@ -1,0 +1,30 @@
+.stat {
+    
+}
+.stat__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding: 40px;
+    border-radius: 32px;
+    background-color: $mite;
+    opacity: .5;
+}
+.stat__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    width: 200px;
+    //height: 120px;
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+.stat__title {
+    font-weight: 700;
+    font-size: 32px;
+}

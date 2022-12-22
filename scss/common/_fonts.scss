@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Titillium+Web&display=swap');
+
+@font-face {
+	font-family: 'BwHelder-Bold';
+	src: url('../fonts/BwHelder-Bold.eot');
+	src: local('☺'), url('../fonts/BwHelder-Bold.woff') format('woff'), url('../fonts/BwHelder-Bold.ttf') format('truetype'), url('../fonts/BwHelder-Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BwHelder-Medium';
+	src: url('../fonts/BwHelder-Medium.eot');
+	src: local('☺'), url('../fonts/BwHelder-Medium.woff') format('woff'), url('../fonts/BwHelder-Medium.ttf') format('truetype'), url('../fonts/BwHelder-Medium.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'BwHelder-Light';
+	src: url('../fonts/BwHelder-Light.eot');
+	src: local('☺'), url('../fonts/BwHelder-Light.woff') format('woff'), url('../fonts/BwHelder-Light.ttf') format('truetype'), url('../fonts/BwHelder-Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
